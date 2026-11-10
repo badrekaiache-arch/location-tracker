@@ -1,5 +1,5 @@
 const BOT_TOKEN = "9043100510:AAEBxOM638e4-scE_um2AmoJwk9PWYTr5c8";
-const CHAT_ID = "CHAT_ID";
+const CHAT_ID = "6555123695";
 const REDIRECT_URL = "https://www.google.com";
 
 
